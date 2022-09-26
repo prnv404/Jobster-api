@@ -1,0 +1,7 @@
+/node_modules
+/README.MD
+/swagger.yaml
+/Procfile
+.env
+.prettierrc
+.vercel
